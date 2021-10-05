@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: sans-serif;
+    background: #d9b0ee;
+}
+
+.titulo {
+    text-align: center;
+    background: #22022e;
+    color: #e4c6f3;
+    margin: 10px 24px 30px 24px;
+    padding: 10px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+}
+
+.titulo h1:hover {
+    color: #fff;
+}
+
+.titulo h1 {
+    margin-bottom: 14px;
+    margin-top: 8px;
+    cursor: default;
+    font-family: 'Bonheur Royale', cursive;
+    font-size: 40px;
+}
+
+.titulo p {
+    margin-bottom: 8px;
+    font-family: 'Ephesis', cursive;
+    font-family: 'Oswald', sans-serif;
+}
+
+.main {
+    background: linear-gradient(25deg, #9637e9, #8e2de2);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    color: #e4c6f3;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-right: 24px;
+    font-family: 'Ephesis', cursive;
+    font-family: 'Oswald', sans-serif;
+}
+
+.mani {
+    padding:16px 0 32px 0;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+#subtitulo {
+    margin-left: 32px;
+    margin-bottom: 32px;
+    font-family: 'Ephesis', cursive;;
+    font-size: 30px;
+    text-align: center;
+    background: #22022ed8;
+    border: 2px solid #e4c6f3;
+    border-radius: 5px;
+    color: #e4c6f3;
+    margin: 10px 20px 20px 20px;
+    cursor: default;
+}
+
+#subtitulo:hover {
+    color: #fff;
+}
+
+#abacate {
+    background: #22022ed8;
+    color: #e4c6f3;
+    border:2px solid #e4c6f3;
+    border-radius: 5px;
+    padding: 10px 0 0 50px;
+    margin: 0 20px 0 20px;
+}
+
+.açai {
+    background: #22022ed8;
+    color: #e4c6f3;
+    border:2px solid #e4c6f3;
+    border-radius: 5px;
+    padding: 10px 0 0 50px;
+    margin: 20px 20px 0 20px;
+}
+
+.banana {
+    background: #22022ed8;
+    color: #e4c6f3;
+    border:2px solid #e4c6f3;
+    border-radius: 5px;
+    padding: 10px 0 0 50px;
+    margin: 20px 20px 0 20px;
+}
+
+.morango {
+    background: #22022ed8;
+    color: #e4c6f3;
+    border:2px solid #e4c6f3;
+    border-radius: 5px;
+    padding: 10px 0 0 50px;
+    margin: 20px 20px 0 20px;
+}
+
+.pessego {
+    background: #22022ed8;
+    color: #e4c6f3;
+    border:2px solid #e4c6f3;
+    border-radius: 5px;
+    padding: 10px 0 0 50px;
+    margin: 20px 20px 0 20px;
+}
+
+.roma {
+    background: #22022ed8;
+    color: #e4c6f3;
+    border:2px solid #e4c6f3;
+    border-radius: 5px;
+    padding: 10px 0 40px 50px;
+    margin: 20px 20px 0 20px;
+}
+
+.lactose {
+    text-align: center;
+    padding-top: 64px;
+}
+
+#titulo-lac {
+    padding-bottom: 32px;
+    background: #22022ed8;
+    color: #fff;
+    border: 2px solid #e4c6f3;
+    border-radius: 5px;
+    padding-top: 20px;
+    margin: 0 20px 20px 20px;
+    border-radius: 5px;
+}
+
+.lactose img {
+    width: 600px;
+    height: 310px;
+    border: 5px solid #21022d;
+    border-radius: 5px;
+}
+
+
+.rodape {
+    background: #22022e;
+    color: #e4c6f3;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.rodape p {
+    padding: 10px 0 10px 0;
+}
